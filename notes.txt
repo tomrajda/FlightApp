@@ -1,21 +1,4 @@
-Co to jest v-model? -line 23 App.vue
+api find cheapest flight pokazuje najtanszy w miesiacu w ktorym wyslesz
 
-- i know:
 
-      <form @submit.prevent="addTodo">
-        <h4>what's on your todo list today?</h4>
-        <input 
-          type="text" 
-          placeholder="e.g. make a video"
-          v-model="input_content" />
-          {{ input_content }}
-      </form>
-
-first time:
-npm create
-npm install
-npm run dev
-
-second time:
-npm run dev
-
+Trzeba bedzie porobic api calle - owycaigac z tej biliboteki Ryanair Python
